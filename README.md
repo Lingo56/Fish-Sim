@@ -4,7 +4,7 @@ https://lingo56.github.io/Fish-Sim/<br>
 
 A fish tank simulation
 
-## TO INTERACT:
+## CONTROLS:
 LMB + Mouse Movement: Rotation<br>
 RMB + Mouse Movement: Translation<br>
 MMB + Mouse Movement (or Mouse Scroll Wheel): Camera Distance<be>
