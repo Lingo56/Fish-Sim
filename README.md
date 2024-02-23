@@ -1,4 +1,4 @@
-# Threes.js Fish Sim
+# Three.js Fish Sim
 
 https://lingo56.github.io/Fish-Sim/<br>
 
